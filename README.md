@@ -1,1 +1,3 @@
-# Vendingmachine
+1. html, css 구현
+2. json에 콜라 정보 저장
+3. js로 콜라 담기 구현, 자판기의 잔액과 소비자의 소지금 업데이트
